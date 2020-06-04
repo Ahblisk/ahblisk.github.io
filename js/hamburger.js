@@ -1,4 +1,4 @@
-function burger() {
+function burGer() {
     var x = document.getElementById("displayLinks");
     if (x.style.display === "block") {
       x.style.display = "none";
